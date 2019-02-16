@@ -1,0 +1,92 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FilterableProductTable should  render 1`] = `
+<div>
+  <div
+    className="SearchBarContainer"
+  >
+    <div>
+      <input
+        defaultValue=""
+        id="searchBar"
+        onChange={[Function]}
+        placeholder="Search..."
+        type="search"
+      />
+    </div>
+    <div>
+      <input
+        defaultValue={true}
+        id="inStock"
+        onChange={[Function]}
+        type="checkbox"
+      />
+      <label>
+        Only show products in stock
+      </label>
+    </div>
+  </div>
+  <div
+    className="tableDetails"
+  >
+    <div>
+      <table>
+        <tbody>
+          <tr>
+            <th>
+              Sporting Goods
+            </th>
+          </tr>
+          <tr>
+            <td>
+              Football
+            </td>
+            <td>
+              $
+              49.99
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Baseball
+            </td>
+            <td>
+              $
+              9.99
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div>
+      <table>
+        <tbody>
+          <tr>
+            <th>
+              Electronics
+            </th>
+          </tr>
+          <tr>
+            <td>
+              iPod Touch
+            </td>
+            <td>
+              $
+              99.99
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Nexus 7
+            </td>
+            <td>
+              $
+              199.99
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+`;

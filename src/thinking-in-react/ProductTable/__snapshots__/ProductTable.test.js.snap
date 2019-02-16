@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ProductTable /> should  render 1`] = `
+<div
+  className="tableDetails"
+>
+  <div>
+    <table>
+      <tbody>
+        <tr>
+          <th>
+            Sporting Goods
+          </th>
+        </tr>
+        <tr>
+          <td>
+            Football
+          </td>
+          <td>
+            $
+            49.99
+          </td>
+        </tr>
+        <tr>
+          <td>
+            Baseball
+          </td>
+          <td>
+            $
+            9.99
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div>
+    <table>
+      <tbody>
+        <tr>
+          <th>
+            Electronics
+          </th>
+        </tr>
+        <tr>
+          <td>
+            iPod Touch
+          </td>
+          <td>
+            $
+            99.99
+          </td>
+        </tr>
+        <tr>
+          <td>
+            Nexus 7
+          </td>
+          <td>
+            $
+            199.99
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+`;

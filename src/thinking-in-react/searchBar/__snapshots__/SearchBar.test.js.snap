@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Checking  Snapshot test will work 1`] = `
+<div
+  className="SearchBarContainer"
+>
+  <div>
+    <input
+      id="searchBar"
+      placeholder="Search..."
+      type="search"
+    />
+  </div>
+  <div>
+    <input
+      id="inStock"
+      type="checkbox"
+    />
+    <label>
+      Only show products in stock
+    </label>
+  </div>
+</div>
+`;

@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ProductRow /> should  render 1`] = `
+Array [
+  <tr>
+    <td>
+      Football
+    </td>
+    <td>
+      $
+      49.99
+    </td>
+  </tr>,
+  <tr>
+    <td>
+      Baseball
+    </td>
+    <td>
+      $
+      9.99
+    </td>
+  </tr>,
+  <tr>
+    <td
+      className="NotInStock"
+    >
+      Basketball
+    </td>
+    <td>
+      $
+      29.99
+    </td>
+  </tr>,
+]
+`;
